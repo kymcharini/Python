@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc8c04a-c591-418f-8dbd-9e6cb4b6b585" name="Changes" comment="" />
+    <list default="true" id="dfc8c04a-c591-418f-8dbd-9e6cb4b6b585" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="datatype" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project Kimani" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +159,9 @@
       <workItem from="1676365348651" duration="9000" />
       <workItem from="1676439858678" duration="6068000" />
       <workItem from="1676523458916" duration="3658000" />
+      <workItem from="1676528380890" duration="143000" />
+      <workItem from="1676528933570" duration="446000" />
+      <workItem from="1676531251794" duration="201000" />
     </task>
     <servers />
   </component>
