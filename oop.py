@@ -13,8 +13,10 @@ person3=person("Mark",12)
 person3.say_hello()
 person4=person("Carlos",17)
 person4.say_hello()
-#create a clas called cars with the following attributes/properties
-#make,model,year then create a function that prints make, mode and year
+person5=person("Jones",20)
+person5.say_hello()
+#create a class called cars with the following attributes/properties
+#make,model,year then create a function that prints make, model and year
 #then create three objects
 class car:
     def __init__(self, make, model, year):
@@ -40,4 +42,11 @@ class song:
 song1=song("R.I.C.O","Drake & Meek Mill")
 song1.this_album()
 
+class occupation:
+    def __init__(self, name, occupation):
+        self.name = name
+        self.occupaton = occupation
+        def say_hello(self):
+            print(f"Hello my name is {self.name} and my occupation is {self.occupation}")
+occupation1=occupation("John","architect")
 
