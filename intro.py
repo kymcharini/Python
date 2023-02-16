@@ -1,0 +1,8 @@
+print(70+8)
+print("56*2")
+print(50+80*2/3)
+print("56-2")
+print("Hello there")
+print("Heyy")
+print(57*4)
+print("python 50+2")
