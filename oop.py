@@ -41,12 +41,3 @@ class song:
 
 song1=song("R.I.C.O","Drake & Meek Mill")
 song1.this_album()
-
-class occupation:
-    def __init__(self, name, occupation):
-        self.name = name
-        self.occupaton = occupation
-        def say_hello(self):
-            print(f"Hello my name is {self.name} and my occupation is {self.occupation}")
-occupation1=occupation("John","architect")
-
